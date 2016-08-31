@@ -1,0 +1,6 @@
+date,price,product_id,quantity,transaction_type
+"Jan 1",100,1,10,Buy
+"Jan 2",200,2,20,Buy
+"Jan 3",150,1,15,Buy
+"Jan 5",120,1,5,Sell
+"Jan 6",125,1,10,Sell

@@ -1,0 +1,14 @@
+[{ "PRODUCT_ID": 1, "TRANSACTION_TYPE": "Buy","QUANTITY": 10,"PRICE": 100,"DATE": "Jan 1"
+  },
+  {
+"PRODUCT_ID": 2, "TRANSACTION_TYPE": "Buy", "QUANTITY": 20, "PRICE": 200, "DATE": "Jan 2"   },   { "PRODUCT_ID": 1, "TRANSACTION_TYPE": "Buy", "QUANTITY": 15, "PRICE": 150, "DATE": "Jan 3"   },   { "PRODUCT_ID": 1, "TRANSACTION_TYPE": "Sell", "QUANTITY": 5, "PRICE": 120,
+"DATE": "Jan 5"
+  },
+  {
+"PRODUCT_ID": 1,
+"TRANSACTION_TYPE": "Sell",
+"QUANTITY": 10,
+"PRICE": 125,
+"DATE": "Jan 6"
+  }
+]
